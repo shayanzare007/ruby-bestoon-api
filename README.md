@@ -26,6 +26,6 @@ or
 
 <h2>Next Feature</h2>
 
-- [ ] Beautification  :thumbsup:
+- [ ] Beautification  :-1:
 - [ ] Fixed bugs  :-1:
 - [ ] Jason in the program automatic reading file  :thumbsup:
