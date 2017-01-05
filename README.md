@@ -13,6 +13,8 @@ This applications was saved output in json_file dircetory
 
 >ruby init.rb
 
+Set your token in lib/recive_data.rb
+
 #Next Features
 
 - [ ] Beautification
