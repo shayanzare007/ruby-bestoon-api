@@ -1,0 +1,8 @@
+{"expense": {
+"amount__sum": 116000,
+"amount__count": 4},
+
+
+"income": {
+"amount__sum": 50006,
+"amount__count": 2}}
