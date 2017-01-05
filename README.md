@@ -15,6 +15,6 @@ This applications was saved output in json_file dircetory
 
 #Next Features
 
- [] Beautification
- [] Fixed bugs
- [] Jason in the program automatic reading file
+- [ ] Beautification
+- [ ] Fixed bugs
+- [ ] Jason in the program automatic reading file
