@@ -9,8 +9,11 @@ Now you can run this program on Windows and Linux
 <h2>Whats News In The Program?</h2>
 
 1.Faster Application
+
 2.Integration Software
+
 3.Smarter software
+
 4.Beautiful software
 
 <h2>Install</h2>
